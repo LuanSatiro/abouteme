@@ -1,0 +1,160 @@
+html {font-family: R;}
+.d1{
+
+height: 100px;
+
+}
+
+.d2 {
+  height: ;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+.scrollspysite{
+     position: relative;
+     overflow: auto;
+     height: 400px;
+}
+.f1{
+ position: relative;
+ margin-left: 70px;
+ 
+}
+.f5 {
+
+    margin-right: 140px;
+}
+
+
+.t1{
+   
+    margin-left: 10%;
+}
+
+
+.btn-primary{
+
+    border:none;
+}
+.fade-in{
+
+    animation: fadeIn 4s;
+}
+@keyframes fadeIn{
+
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+
+
+
+
+@media (max-width: 991.98px) { 
+
+    .v1{
+        font-size: 30px;
+    }
+    
+    .v2{
+        font-size: 30px;
+    }
+    
+    .v3{
+        font-size: 15px;
+    }
+    .t6{
+
+        width: 20px;
+    }
+  
+
+}
+@media (max-width: 575px) { 
+
+
+    .scrollspysite{
+  width: 370px;
+      
+   }
+   .f1{
+    position: relative;
+    margin-left: 120px;
+    
+   }
+   .x1{
+       font-size: 35px;
+       margin-left: 15%;
+       width:300px;
+       margin-top: -50px;
+   }
+}
+   @media (min-width: 576px) and (max-width: 991.98px) { 
+
+    .x1{
+        font-size: 35px;
+        margin-left: 0;
+        width:300px;
+        margin-top: 25px;
+    }
+    .f1{
+        position: relative;
+        margin-left: 5px;
+        
+       }
+   }
+
+   @media (min-width: 992px) and (max-width: 1199.98px) { 
+    .v1{
+        font-size: 35px;
+        
+    }
+    .x1{
+        font-size: 45px;
+      width: 600px;
+      margin-left: -150px;
+    }
+
+
+   }
+    
+.in {
+    position: absolute;
+    z-index: 60;
+    margin-top: 118px;
+    
+}
+
+.fb{
+    position: absolute;
+    z-index: 60;
+    margin-top: 78px;
+
+}
+
+
+.mail{
+    position: absolute;
+    z-index: 60;
+    margin-top: 28px;
+    margin-left: -15px;
+
+}
+
+.fon{
+    position: absolute;
+    z-index: 60;
+    margin-top: -1px;
+    margin-left: -2px;
+  
+
+}
+
+    
+
