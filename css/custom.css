@@ -77,11 +77,12 @@ p{
     background-image:url('../img/nlearn.png');
     height: 300px;
     background-size: 100% 100%;
+    margin-top:10%;
     
     
  }
  .z1{
-     margin-top: 4%;
+   
  }
 
  @media (min-width: 10px) and (max-width: 767.98px) { 
