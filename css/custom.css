@@ -1,0 +1,142 @@
+@font-face {
+    font-family: Quicksand;
+    src: url(../webfonts/Quicksand-VariableFont_wght.ttf);
+}
+
+html {font-family: R;}
+.t1{
+    background-image:url('../img/f1.jpg');
+    height: 625px;
+    background-size: 100% 100%;
+
+}
+.b1{
+    background-image:url('../img/');
+    height: 620px;
+    background-size: 100% 100%;
+
+}
+nav{
+    background-color: rgba(255,255,255,0.2);
+    font-family: Quicksand;
+   
+   
+}
+.t2{
+    font-family: Quicksand;
+}
+a{
+
+}
+p{
+    color:rgb(99, 99, 99);
+    font-family: Quicksand;
+}
+.t3{
+    font-family: Quicksand;
+
+}
+.t4{
+    margin-left: -5%;
+    font-family: Quicksand;
+  
+}
+.t5{
+    margin-left: -10%;
+    font-family: Quicksand;
+  
+}
+.fa-facebook{
+    color:rgb(99, 99, 99);
+}
+.fa-linkedin-in{
+    color:rgb(99, 99, 99);
+}
+.t7{
+
+}
+.g1{
+    margin-left: -5%;
+}
+@media (min-width: 10px) and (max-width: 991.98px) { 
+    .t1{
+        
+        height: 400px;
+     
+    
+    }
+
+ }
+ .g2{
+    background-image:url('../img/care.png');
+    height: 300px;
+    background-size: 100% 100%;
+    margin-top: 4%;
+ }
+ .g3{
+    background-image:url('../img/nlearn.png');
+    height: 300px;
+    background-size: 100% 100%;
+    
+    
+ }
+ .z1{
+     margin-top: 2%;
+ }
+
+ @media (min-width: 10px) and (max-width: 767.98px) { 
+    .t6 {
+        display: none;
+    }
+    .fa-facebook{
+        color:#ffff;
+    }
+    .fa-linkedin-in{
+        color:#ffff;
+
+    }
+    .b1{
+        height: 100%;
+    }
+ }
+ @media (min-width: 10px) and (max-width: 890px) { 
+    .b1{
+        height: 200%;
+    }
+ }
+ @media (min-width:  767.98px) { 
+    .t7 {
+        display: none;
+  
+    }
+ }
+ @media (min-width: 767.98px) and (max-width: 992px) { 
+    .t1 {
+       
+    }
+    .col-md-8 {
+        -ms-flex: 0 0 66.666667%;
+        flex: 0 0 66.666667%;
+        max-width: 70%;
+        margin-left: 15%;
+    }
+ }
+
+ @media (min-width: 768px) and (max-width: 992px) { 
+    .fa-facebook{
+        margin-left: -70%;
+    }
+    .fa-linkedin-in{
+        margin-left: -85%;
+
+    }
+ }
+ @media (min-width: 1090px) { 
+    .fa-facebook{
+        margin-left: -150%;
+    }
+    .fa-linkedin-in{
+        margin-left: -160%;
+
+    }
+ }
